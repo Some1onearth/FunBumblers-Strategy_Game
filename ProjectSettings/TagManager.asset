@@ -11,10 +11,10 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - IslandCollider
+  - Agent
+  - Town
+  - Enemy
   - 
   - 
   - 
@@ -40,4 +40,31 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Sea
+    uniqueID: 2399297761
+    locked: 0
+  - name: Island
+    uniqueID: 2788768157
+    locked: 0
+  - name: Props
+    uniqueID: 1964277407
+    locked: 0
+  - name: Highlight
+    uniqueID: 1635246411
+    locked: 0
+  - name: Agents
+    uniqueID: 31517949
+    locked: 0
+  - name: SelectionIndicator
+    uniqueID: 1288391467
+    locked: 0
+  - name: SelectedObject
+    uniqueID: 427703685
+    locked: 0
+  - name: FX
+    uniqueID: 3763418555
+    locked: 0
+  - name: FogOfWar
+    uniqueID: 1854237835
     locked: 0
