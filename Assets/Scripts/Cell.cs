@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class Cell : MonoBehaviour
 {
 
-    #region variables
+    #region Variables
     public Image _OutlineImage;
 
     [HideInInspector]

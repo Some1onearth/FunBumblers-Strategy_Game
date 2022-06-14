@@ -5,10 +5,12 @@ using UnityEngine.UI;
 public class Board : MonoBehaviour
 {
     #region Variables
+
     public GameObject _CellPrefab;
 
     [HideInInspector]
     public Cell[,] _AllCells = new Cell[8, 8];
+
     #endregion
 
     public void Create()
